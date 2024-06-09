@@ -1,0 +1,24 @@
+{
+  "originHash" : "3fe53e56d8f687c60c3456e7d51901a51b8796e627021bf35f37f61a3b6430eb",
+  "pins" : [
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "revision" : "e0dada9cd44e3fa7ec3b867e49a8ddbf543e3df3",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
